@@ -1,6 +1,7 @@
 <h1 align="center">Rocket League Save Files 📜</h1>
 
 Some collections of Rocket League Save Files i got or made
+Last Update: Now it shows your Steam pfp & Steam username and if you are on Epic it shows your Epic Username!
 
 
 ![ScreenShot](https://cdn.discordapp.com/attachments/1036859677151072339/1039877283739082803/rl_series_favorites_june2021_16x9.309bf22bd29c2e411e9dd8eb07575bb1.png)
