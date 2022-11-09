@@ -32,11 +32,13 @@ Backup made by Raphael (https://steamcommunity.com/id/raphaelreal/) --- Crunchy 
 ## 76561198258556014
 
 Backup made by Sxpreme. (https://steamcommunity.com/id/SxpremeDaanii/) --- Steam Backup
+![ScreenShot](https://cdn.discordapp.com/attachments/1036859677151072339/1039885796896944158/76561198258556014.png)
 ![ScreenShot](https://cdn.discordapp.com/attachments/1036859677151072339/1039881707920293918/Screenshot_170.png)
 
 ## 76561198819497624
 
 Backup made by ニキタ (https://steamcommunity.com/profiles/76561198819497624) --- Steam Backup
+![ScreenShot](https://cdn.discordapp.com/attachments/1036859677151072339/1039885959665291425/76561198819497624.png)
 ![ScreenShot](https://cdn.discordapp.com/attachments/1036859677151072339/1039882952177352745/Screenshot_171.png)
 
 
