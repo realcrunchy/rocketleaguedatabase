@@ -20,8 +20,8 @@ Replace your save files with two of these ones in this repo
 ## 76561198416272829
 
 Backup made by fake.rl (https://steamcommunity.com/id/6_FAKE_6/) --- Steam Backup
-![ScreenShot](https://cdn.discordapp.com/attachments/1036859677151072339/1039878302871068702/Screenshot_168.png)
 ![ScreenShot](https://cdn.discordapp.com/attachments/1036859677151072339/1039885152588935258/76561198416272829.png)
+![ScreenShot](https://cdn.discordapp.com/attachments/1036859677151072339/1039878302871068702/Screenshot_168.png)
 
 ## 76561199133502658
 
